@@ -1,0 +1,34 @@
+.auto-form-container{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+
+.tableFixHead          { overflow: auto; height: 250px; }
+.tableFixHead .head th { position: sticky; top: 0; z-index: 1; }
+
+/* Just common table stuff. Really. */
+.tableFixHead .table  { border-collapse: collapse; width: 100%; }
+.tableFixHead th, .tableFixHead td { padding: 8px 16px; }
+.tableFixHead th { background:rgb(252, 248, 248); }
+
+.error{
+  color:red;
+}
+
+.search{
+  margin-top: 50px;
+}
+
+.loginErr{
+  margin-top: 50px;
+  margin-left: 25%;
+}
+
+.clickButton{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
